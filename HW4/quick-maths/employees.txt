@@ -1,0 +1,7 @@
+ID,Name,Role,Division,Salary ($)
+230,Marty,Engineer,Technology,75000
+26,Thomas,Manager,Sales,100000
+154,Nisha,Manager,Marketing,65000  
+50,Jason,Developer,Technology,50500
+180,Randy,DBA,Technology,63000  
+112,Sanjay,Sysadmin,Technology,70000
