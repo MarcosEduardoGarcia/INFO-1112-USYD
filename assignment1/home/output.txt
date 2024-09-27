@@ -1,0 +1,4 @@
+folder1/file1.ext Group Readable: True, Group Executable: True Size: 10, Owner: user, Group: user, last modified date: Aug 19  2022, last access date: Aug 19  2022
+file2.ext Group Readable: True, Group Executable: True Size: 10, Owner: user, Group: user, last modified date: Aug 30  2012, last access date: Aug 19  2022
+file3.ext Group Readable: True, Group Executable: True Size: 10, Owner: user, Group: user, last modified date: Aug 19  2022, last access date: Aug 19  2022
+file4.ext Group Readable: True, Group Executable: True Size: 10, Owner: user, Group: user, last modified date: Aug 19  2022, last access date: Aug 19  2022

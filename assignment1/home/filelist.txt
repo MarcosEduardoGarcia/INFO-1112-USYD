@@ -1,0 +1,4 @@
+folder1/file1.ext
+file2.ext
+file3.ext
+file4.ext

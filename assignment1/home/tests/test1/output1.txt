@@ -1,0 +1,5 @@
+test1/file1.ext Group Readable: True, Group Executable: True Size: 10, Owner: user, Group: user, last modified date: Dec 18  2015, last access date: Dec 18  2015
+test1/file2.ext Group Readable: True, Group Executable: False Size: 36, Owner: user, Group: user, last modified date: May 22  2019, last access date: May 22  2019
+test1/file3.ext Group Readable: False, Group Executable: True Size: 21, Owner: user, Group: user, last modified date: Apr 07  2001, last access date: Apr 07  2001
+test1/folder/file4.ext Group Readable: False, Group Executable: True Size: 5, Owner: user, Group: user, last modified date: Jun 16  2021, last access date: Jun 16  2021
+test1/not_existing_file.ext can not be found

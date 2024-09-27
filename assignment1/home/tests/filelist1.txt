@@ -1,0 +1,5 @@
+test1/file1.ext
+test1/file2.ext
+test1/file3.ext
+test1/folder/file4.ext
+test1/not_existing_file.ext
