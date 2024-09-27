@@ -1,0 +1,58 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ folder
+hello.py
+root:/$ drwxr-x root folder
+-rw-r-- root hello.py
+root:/$ drwxr-x root .
+drwxr-x root ..
+-rw-r-- root .bash
+drwxr-x root .git
+drwxr-x root .ignition
+drwxr-x root folder
+-rw-r-- root hello.py
+root:/$ drwxr-x root .
+root:/$ .
+..
+.bash
+.git
+.ignition
+folder
+hello.py
+root:/$ -rw-r-- root hello.py
+root:/$ ls: No such file or directory
+root:/$ root:/$ root:/folder$ string.py
+root:/folder$ -rw-r-- root string.py
+root:/folder$ drwxr-x root .
+drwxr-x root ..
+-rw-r-- root .atom
+drwxr-x root .devel
+-rw-r-- root string.py
+root:/folder$ .
+..
+.atom
+.devel
+string.py
+root:/folder$ drwxr-x root .
+root:/folder$ /folder
+root:/folder$ root:/$ string.py
+root:/$ .
+..
+.atom
+.devel
+string.py
+root:/$ -rw-r-- root .bash
+root:/$ root:/$ folder
+root:/$ .bash
+root:/$ root:/$ hello.py
+root:/$ hello.py
+root:/$ -rw-r-- root hello.py
+root:/$ root:/folder$ root:/folder$ -rw-r-- root .atom
+root:/folder$ -rw-r-- root .atom
+root:/folder$ root:/folder$ .atom
+root:/folder$ root:/folder$ .atom
+root:/folder$ root:/folder$ root:/folder$ .
+..
+root:/folder$ drwxr-x root .
+drwxr-x root ..
+root:/folder$ root:/folder$ drwxr-x root .devel
+root:/folder$ .devel
+root:/folder$ root:/$ bye, root

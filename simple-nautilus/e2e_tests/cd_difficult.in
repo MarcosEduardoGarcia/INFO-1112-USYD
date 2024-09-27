@@ -1,0 +1,12 @@
+mkdir -p a/b/c/d
+cd a
+mkdir -p a/b/c
+cd a/b/c/d
+cd ..
+cd a/b/c/d
+cd /a/a/b
+cd /
+cd a/b/../b/c
+cd ../../../../../../..
+cd a/./././././b
+exit

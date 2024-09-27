@@ -1,0 +1,51 @@
+mkdir .ignition
+mkdir .git
+touch hello.py
+touch .bash
+mkdir folder
+touch folder/.atom
+touch folder/string.py
+mkdir folder/.devel
+ls
+ls -l
+ls -l -a
+ls -d -l -a
+ls -a
+ls -l hello.py
+ls -l bye.py
+ls -l .bash
+cd folder
+ls
+ls -l
+ls -l -a
+ls -a
+ls -l -d -a
+pwd
+cd /
+ls folder
+ls -a folder
+ls -a -l .bash
+ls -d -l .bash
+ls -d folder
+ls -a -d .bash
+ls -d
+ls -a -d hello.py
+ls -d hello.py
+ls -l -a hello.py
+cd folder
+ls -l .atom
+ls -l -a .atom
+ls -l -a -d .atom
+ls -l -d .atom  
+ls -a .atom
+ls -d .atom   
+ls -a -d .atom
+ls -d .devel
+ls -l .devel
+ls -a .devel
+ls -a -l .devel
+ls -d -l .devel
+ls -a -d -l .devel
+ls -a -d .devel
+cd ..
+exit

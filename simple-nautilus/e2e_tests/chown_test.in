@@ -1,0 +1,24 @@
+touch neural.py
+ls -l neural.py
+adduser Marcos
+adduser Jesus
+adduser Mar
+su Marcos
+chown Jesus neural.py
+chown Marcos neural.py
+su Jesus
+chown Marcos neural.py
+chown Mar neural.py
+su
+chown Marcos neural.py
+ls -l neural.py
+chown Jesus neural.py
+ls -l neural.py
+chown Mar neural.py
+ls -l neural.py
+chown Gera neural.py
+ls -l neural.py
+chown root neural.py
+ls -l neural.py
+chown Marcos neural2.py
+exit

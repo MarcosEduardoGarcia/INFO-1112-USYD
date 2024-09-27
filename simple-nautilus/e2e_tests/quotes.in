@@ -1,0 +1,25 @@
+mkdir "folder 1"
+mkdir -p "a 1"/"a 2"/"a 3"
+cd "folder 1"
+pwd
+cd /
+pwd
+cd "a 1"/"a 2"/"a 3"
+pwd
+touch "new file"
+touch "other new file"
+touch "another new file"
+ls
+ls -l
+chmod a= "new file"
+ls -l
+rm "new file"
+ls
+touch "move this"
+touch "copy this"
+ls -l
+cp "copy this" /copy_in_root
+mv "move this" /inroot
+cd /
+ls -l
+exit

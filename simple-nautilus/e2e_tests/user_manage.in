@@ -1,0 +1,28 @@
+adduser student1
+adduser student2
+adduser student3
+adduser student4
+su student1
+touch file1
+su student2
+touch file1
+ls
+touch file2
+su student3
+touch file3
+su student4
+touch file4
+ls -l
+su
+su student5
+adduser student1
+deluser user
+deluser student1
+su student1
+su student2
+deluser student3
+deluser root
+su
+deluser root
+exit
+

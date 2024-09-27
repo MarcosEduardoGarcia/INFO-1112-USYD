@@ -1,0 +1,12 @@
+root:/$ root:/$ mkdir: File exists
+root:/$ mkdir: Ancestor directory does not exist
+root:/$ touch: Ancestor directory does not exist
+root:/$ touch: Ancestor directory does not exist
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ directory
+exist
+moveit
+root:/$ root:/$ cp: File exists
+root:/$ mv: File exists
+root:/$ root:/directory$ cp: No such file
+root:/directory$ mv: No such file
+root:/directory$ root:/$ bye, root

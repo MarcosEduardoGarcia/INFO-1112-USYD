@@ -1,0 +1,25 @@
+cat e2e_tests/cd_difficult.in | python3 nautilus.py | diff - e2e_tests/cd_difficult.out
+
+cat e2e_tests/cd_complex.in | python3 nautilus.py | diff - e2e_tests/cd_complex.out
+
+cat e2e_tests/simple_files_folders.in | python3 nautilus.py | diff - e2e_tests/simple_files_folders.out
+
+cat e2e_tests/cp_mv_unit.in | python3 nautilus.py | diff - e2e_tests/cp_mv_unit.out
+
+cat e2e_tests/type_erros.in | python3 nautilus.py | diff - e2e_tests/type_erros.out
+
+cat e2e_tests/user_manage.in | python3 nautilus.py | diff - e2e_tests/user_manage.out
+
+cat e2e_tests/file_manager.in | python3 nautilus.py | diff - e2e_tests/file_manager.out
+
+cat e2e_tests/using_ls.in | python3 nautilus.py | diff - e2e_tests/using_ls.out
+
+cat e2e_tests/chmod_test.in | python3 nautilus.py | diff - e2e_tests/chmod_test.out
+
+cat e2e_tests/chown_test.in | python3 nautilus.py | diff - e2e_tests/chown_test.out
+
+cat e2e_tests/quotes.in | python3 nautilus.py | diff - e2e_tests/quotes.out
+
+cat e2e_tests/enter_out_directories.in | python3 nautilus.py | diff - e2e_tests/enter_out_directories.out
+
+cat e2e_tests/copies_moves.in | python3 nautilus.py | diff - e2e_tests/copies_moves.out

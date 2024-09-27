@@ -1,0 +1,14 @@
+root:/$ root:/$ root:/$ touch: Invalid syntax
+root:/$ root:/$ root:/$ INFO1112
+copy_in_root
+root:/$ root:/$ INFO1112
+copy_in_root
+move_to_root
+root:/$ root:/INFO1112/HW1$ script.sh
+root:/INFO1112/HW1$ root:/INFO1112/HW1$ file
+script.sh
+root:/INFO1112/HW1$ root:/INFO1112/HW1$ root:/$ INFO1112
+copy_in_root
+in_root_file
+move_to_root
+root:/$ bye, root

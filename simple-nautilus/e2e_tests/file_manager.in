@@ -1,0 +1,24 @@
+mkdir documents
+mkdir videos
+mkdir downloads
+mkdir desktop
+mkdir music
+mkdir .cache      
+mkdir .gnome
+mkdir .ignition
+ls
+ls -l
+ls -l -a
+ls -a -d -l documents
+ls -l music
+ls -a -d .gnome
+ls -l -a -d .cache
+ls -a -l -d .cache
+ls -d -l -a
+touch documents/slides.pptx
+touch documents/slides1.pptx   
+touch dOcuments/slides3.pptx
+ls -l documents
+rm documents/slides1.pptx
+ls -l documents
+exit

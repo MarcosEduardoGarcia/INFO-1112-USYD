@@ -1,0 +1,16 @@
+mkdir -p INFO1112/HW1/         
+touch INFO1112/HW1/script.sh
+touch !NFO1112/HW1/script2.sh
+touch INFO1112/HW1/script2.sh
+cp INFO1112/HW1/script.sh copy_in_root
+ls
+mv INFO1112/HW1/script2.sh move_to_root
+ls
+cd INFO1112/HW1
+ls
+touch file 
+ls
+mv file /in_root_file
+cd /
+ls
+exit

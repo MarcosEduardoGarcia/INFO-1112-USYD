@@ -1,0 +1,38 @@
+mkdir -p a/b/c/d/e/f
+cd a  
+mkdir -p a/b/c/d
+cd a/a/b/c/d
+ls
+cd b
+ls
+cd ..
+pwd
+cd /
+ls
+cd a
+pwd
+ls
+cd a
+pwd
+ls
+cd /
+cd a  
+ls
+cd a
+ls
+cd b
+ls
+cd /
+cd a/a/b/c
+pwd
+cd /a
+pwd
+cd /
+cd a/b/c/d/e/f
+cd ../../../../../../../../../../../../../../..
+pwd
+cd a/b/c/d/e/f
+pwd
+cd ../../../././././.
+pwd
+exit

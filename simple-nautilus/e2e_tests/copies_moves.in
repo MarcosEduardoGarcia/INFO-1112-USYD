@@ -1,0 +1,19 @@
+mkdir exist
+mkdir exist
+mkdir directory/new
+touch directory/file
+touch directory/moveit
+mkdir directory
+mkdir directory/new
+touch directory/file
+touch directory/moveit
+touch moveit
+ls
+touch file
+cp directory/file file
+mv directory/moveit moveit
+cd directory
+cp not_copy /newfile
+mv not_move /newfile
+cd /
+exit

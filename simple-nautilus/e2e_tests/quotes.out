@@ -1,0 +1,23 @@
+root:/$ root:/$ root:/$ root:/folder 1$ /folder 1
+root:/folder 1$ root:/$ /
+root:/$ root:/a 1/a 2/a 3$ /a 1/a 2/a 3
+root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ another new file
+new file
+other new file
+root:/a 1/a 2/a 3$ -rw-r-- root another new file
+-rw-r-- root new file
+-rw-r-- root other new file
+root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ -rw-r-- root another new file
+------- root new file
+-rw-r-- root other new file
+root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ another new file
+other new file
+root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ -rw-r-- root another new file
+-rw-r-- root copy this
+-rw-r-- root move this
+-rw-r-- root other new file
+root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ root:/a 1/a 2/a 3$ root:/$ drwxr-x root a 1
+-rwxr-x root copy_in_root
+drwxr-x root folder 1
+-rw-r-- root inroot
+root:/$ bye, root

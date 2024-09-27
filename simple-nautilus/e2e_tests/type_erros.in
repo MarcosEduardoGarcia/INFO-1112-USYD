@@ -1,0 +1,24 @@
+mkdri folder
+mkdiR folder
+mkdir folder
+touhc folder/file
+touch folder/file$
+touch folder/file
+touch "new file"
+ls
+touch avengers.mp4
+touch driver_3_4
+mkdir virus.zip
+rmdir virus.zip
+touch virus.zip
+touch virus.zip
+ls -l
+chmod o+x virus.zip
+ls -l virus.zip
+adduser Marcos
+su Marcoz
+su Marcos
+touch my_file
+ls -l
+exit
+

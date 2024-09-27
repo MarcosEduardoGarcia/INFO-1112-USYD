@@ -1,0 +1,17 @@
+touch file
+touch hw1
+touch draw    
+touch movie
+touch h2
+ls
+mkdir folder
+mkdir info1112
+mkdir nvidia
+mkdir arduino
+ls
+cd arduino
+touch blink.ino
+ls
+cd /
+exit
+

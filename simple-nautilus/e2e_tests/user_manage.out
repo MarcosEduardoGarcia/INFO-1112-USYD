@@ -1,0 +1,17 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ student1:/$ student1:/$ student2:/$ student2:/$ file1
+student2:/$ student2:/$ student3:/$ student3:/$ student4:/$ student4:/$ -rw-r-- student1 file1
+-rw-r-- student2 file2
+-rw-r-- student3 file3
+-rw-r-- student4 file4
+student4:/$ root:/$ su: Invalid user
+root:/$ adduser: The user already exists
+root:/$ deluser: The user does not exist
+root:/$ root:/$ su: Invalid user
+root:/$ student2:/$ deluser: Operation not permitted
+student2:/$ deluser: Operation not permitted
+student2:/$ root:/$ WARNING: You are just about to delete the root account
+Usually this is never required as it may render the whole system unusable
+If you really want this, call deluser with parameter --force
+(but this `deluser` does not allow `--force`, haha)
+Stopping now without having performed any action
+root:/$ bye, root

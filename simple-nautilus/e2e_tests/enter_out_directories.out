@@ -1,0 +1,21 @@
+root:/$ root:/$ root:/a$ root:/a$ cd: No such file or directory
+root:/a$ a
+b
+root:/a$ root:/a/b$ c
+root:/a/b$ root:/a$ /a
+root:/a$ root:/$ a
+root:/$ root:/a$ /a
+root:/a$ a
+b
+root:/a$ root:/a/a$ /a/a
+root:/a/a$ b
+root:/a/a$ root:/$ root:/a$ a
+b
+root:/a$ root:/a/a$ b
+root:/a/a$ root:/a/a/b$ c
+root:/a/a/b$ root:/$ root:/a/a/b/c$ /a/a/b/c
+root:/a/a/b/c$ root:/a$ /a
+root:/a$ root:/$ root:/a/b/c/d/e/f$ root:/$ /
+root:/$ root:/a/b/c/d/e/f$ /a/b/c/d/e/f
+root:/a/b/c/d/e/f$ root:/a/b/c$ /a/b/c
+root:/a/b/c$ bye, root

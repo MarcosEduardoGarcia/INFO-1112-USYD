@@ -1,0 +1,30 @@
+root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ root:/$ desktop
+documents
+downloads
+music
+videos
+root:/$ drwxr-x root desktop
+drwxr-x root documents
+drwxr-x root downloads
+drwxr-x root music
+drwxr-x root videos
+root:/$ drwxr-x root .
+drwxr-x root ..
+drwxr-x root .cache
+drwxr-x root .gnome
+drwxr-x root .ignition
+drwxr-x root desktop
+drwxr-x root documents
+drwxr-x root downloads
+drwxr-x root music
+drwxr-x root videos
+root:/$ drwxr-x root documents
+root:/$ root:/$ .gnome
+root:/$ drwxr-x root .cache
+root:/$ drwxr-x root .cache
+root:/$ drwxr-x root .
+root:/$ root:/$ root:/$ touch: Ancestor directory does not exist
+root:/$ -rw-r-- root slides.pptx
+-rw-r-- root slides1.pptx
+root:/$ root:/$ -rw-r-- root slides.pptx
+root:/$ bye, root

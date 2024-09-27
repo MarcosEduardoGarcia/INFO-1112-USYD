@@ -1,0 +1,13 @@
+root:/$ root:/$ -rw-r-- root neural.py
+root:/$ root:/$ root:/$ root:/$ Marcos:/$ chown: Operation not permitted
+Marcos:/$ chown: Operation not permitted
+Marcos:/$ Jesus:/$ chown: Operation not permitted
+Jesus:/$ chown: Operation not permitted
+Jesus:/$ root:/$ root:/$ -rw-r-- Marcos neural.py
+root:/$ root:/$ -rw-r-- Jesus neural.py
+root:/$ root:/$ -rw-r-- Mar neural.py
+root:/$ chown: Invalid user
+root:/$ -rw-r-- Mar neural.py
+root:/$ root:/$ -rw-r-- root neural.py
+root:/$ chown: No such file or directory
+root:/$ bye, root
